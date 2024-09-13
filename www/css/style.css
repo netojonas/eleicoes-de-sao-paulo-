@@ -1,0 +1,32 @@
+*{
+    margin: 10px;
+    
+}
+body{
+    background-color: rgb(171, 179, 186);
+}
+h1{
+    background-color: rgb(75, 205, 75);
+    text-align: center;
+}
+h2{
+    background-color: rgb(234, 229, 229);
+}
+ul{
+    background-color: rgb(246, 246, 246);
+}   
+h3{
+    background-color: rgb(234, 229, 229);
+}
+.tabela{
+    background-color: rgb(246, 246, 246);
+}
+img{
+    max-width: 500px;
+}
+p{
+    background-color: rgb(246, 246, 246);
+}
+strong{
+    background-color: rgb(246, 246, 246);
+}
